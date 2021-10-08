@@ -5,9 +5,9 @@
  */
 package student1;
 
-/**for pull
- *this is comment added
+/**
  * @author Oscar
+ * This is a demo of pull, this cdomment was added originally on GitHub to be pulled
  */
 //commetn at 6:47pm
 public class Student1 {
