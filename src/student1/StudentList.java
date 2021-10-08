@@ -7,7 +7,7 @@ package student1;
 
 /**
  *
- * @author Oscar
+ * @author Oscar O
  */
 public class StudentList {
     public static void main(String[] args)
