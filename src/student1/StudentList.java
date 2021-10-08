@@ -13,7 +13,7 @@ public class StudentList {
     public static void main(String[] args)
     {
         Student1 [] studentList =new Student1[3];
-        /*added comment at 4:31*/
+        
         Student1 s1 = new Student1();
         s1.setName("Ronak");
         
