@@ -12,7 +12,7 @@ package student1;
 public class StudentList {
     public static void main(String[] args)
     {
-        Student1 [] studentList =new Student1[2];
+        Student1 [] studentList =new Student1[3];
         
         Student1 s1 = new Student1();
         s1.setName("Ronak");
