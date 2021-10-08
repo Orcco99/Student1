@@ -7,7 +7,7 @@ package student1;
 
 /**
  * @author Oscar
- * This is a demo of pull, this cdomment was added originally on GitHub to be pulled
+ * This is a demo of pull, this comment was added originally on GitHub to be pulled
  */
 //commetn at 6:47pm
 public class Student1 {
