@@ -20,12 +20,8 @@ public class StudentList {
         Student1 s2 = new Student1();
         s2.setName("Sheth");
         
-        Student1 s3 = new Student1();
-        s3.setName("Mark");
-        
         studentList[0] =s1;
         studentList[1] =s2;
-        studentList[2] =s3;
         
         for (Student1 s : studentList){
             System.out.println(s.getName());
