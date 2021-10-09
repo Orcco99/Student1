@@ -11,6 +11,7 @@ package student1;
  */
 //commetn at 6:47pm
 //changes done for fetch and merge
+//changes for new demo
 public class Student1 {
        private String name;
        private String address;
