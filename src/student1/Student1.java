@@ -10,6 +10,7 @@ package student1;
  * This is a demo of pull, this comment was added originally on GitHub to be pulled
  */
 //commetn at 6:47pm
+//changes done for fetch and merge
 public class Student1 {
        private String name;
        private String address;
