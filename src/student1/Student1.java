@@ -15,7 +15,17 @@ package student1;
 public class Student1 {
        private String name;
        private String address;
+       private int marks;
 
+    public int getMarks() {
+        return marks;
+    }
+
+    public void setMarks(int marks) {
+        this.marks = marks;
+    }
+    
+       
     public String getAddress() {
         return address;
     }
